@@ -1,5 +1,5 @@
 # BurningAlpaca (Group 4):
-Member:
+Members:
   * Luke Bicklein
   * Tom Grossman
   * Ahsan Khan
